@@ -1,5 +1,9 @@
 # Papernotes
 
+### Summer 2019
+* [Inverse Reinforcement Learning](notes/InverseRLlectures/InverseRLlectures.md) &mdash; *Abbeel* [[slides](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf)]
+
+
 ### Winter 2019
 * [The Option-Critic architecture](notes/OptionCritic/OptionCritic.md) &mdash; *Bacon, Harb and Precup* [[AAAI](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14858)]
 
