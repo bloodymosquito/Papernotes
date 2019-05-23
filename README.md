@@ -1,7 +1,7 @@
 # Papernotes
 
 ### Summer 2019
-* [Apprenticeship Learning via Inverse Reinforcement Learning](notes/ApprenticeshipLearning/ApprenticeshipLearning.md)[[ICML 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
+* [Apprenticeship Learning via Inverse Reinforcement Learning](notes/ApprenticeshipLearning/ApprenticeshipLearning.md) &mdash; *Abbeel* [[ICML 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
 * [Inverse Reinforcement Learning](notes/InverseRLlectures/InverseRLlectures.md) &mdash; *Abbeel* [[slides](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf)]
 
 
