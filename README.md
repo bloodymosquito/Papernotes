@@ -1,6 +1,7 @@
 # Papernotes
 
 ### Summer 2019
+* [Learning Latent Plans From Play](notes/LatentPlansFromPlay/LatentPlansFromPlay.md) &mdash; *Lynch et al.* [[arXiv 2019](https://arxiv.org/pdf/1903.01973.pdf) [blog](https://learning-from-play.github.io/)]
 * [Apprenticeship Learning via Inverse Reinforcement Learning](notes/ApprenticeshipLearning/ApprenticeshipLearning.md) &mdash; *Abbeel* [[ICML 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
 * [Inverse Reinforcement Learning](notes/InverseRLlectures/InverseRLlectures.md) &mdash; *Abbeel* [[slides](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf)]
 
