@@ -1,14 +1,27 @@
 # Papernotes
 
+
 ### Fall 2019 
 * [Deep RL Course - Berkeley 2019](notes/Deep_RL_Berkeley/README.md)
 
 ### Summer 2019
 * [Competing the Obstacle Tower Challenge](notes/ObstacleTowerChallenge/ObstacleTowerChallenge.md) &mdash; *unixpickle* [[blog 2019](https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/)]
+
 * [Learning Latent Plans From Play](notes/LatentPlansFromPlay/LatentPlansFromPlay.md) &mdash; *Lynch et al.* [[arXiv 2019](https://arxiv.org/pdf/1903.01973.pdf) [blog](https://learning-from-play.github.io/)]
+
 * [Apprenticeship Learning via Inverse Reinforcement Learning](notes/ApprenticeshipLearning/ApprenticeshipLearning.md) &mdash; *Abbeel* [[ICML 2004](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)]
+
 * [Inverse Reinforcement Learning](notes/InverseRLlectures/InverseRLlectures.md) &mdash; *Abbeel* [[slides](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf)]
 
+* [Coordinated Exploration via Intrinsic Rewards for Multi-Agent Reinforcement Learning](notes/CoordinatedExplorationIntrinsicRewardsMultiAgentRL/CoordinatedExplorationIntrinsicRewardsMultiAgentRL.md) &mdash; *Iqbal and Sha* [[arXiv](https://arxiv.org/abs/1905.12127)]
+
+* [Agent Modeling as Auxiliary Task for Deep Reinforcement Learning](notes/AgentModelingAsAuxiliaryTask/AgentModelingAsAuxiliaryTask.md) &mdash; *Hernandez-Leal, et al.* [[arXiv](https://arxiv.org/abs/1907.09597)]
+
+* [A Hitchhiker's Guide to Statistical Comparisons of Reinforcement Learning Algorithms](notes/StatisticalComparisonsOfReinforcementLearningAlgorithms/StatisticalComparisonsOfReinforcementLearningAlgorithms.md) &mdash; *Colas, et al.* [[arXiv](https://arxiv.org/abs/1904.06979)]
+
+* [Meta-Reinforcement Learning of Structured Exploration Strategies (MAESN)](notes/MetaReinforcementLearningStructuredExplorationStrategies/MetaReinforcementLearningStructuredExplorationStrategies.md) &mdash; *Gupta et al.* [[arXiv](https://arxiv.org/abs/1802.07245)]
+
+* [Soft Actor-Critic (SAC)](notes/SoftActorCritic/SoftActorCritic.md) &mdash; *Haarnoja, Zhou, Abbeel and Levine* [[arXiv](https://arxiv.org/abs/1801.01290)]
 
 ### Winter 2019
 * [The Option-Critic architecture](notes/OptionCritic/OptionCritic.md) &mdash; *Bacon, Harb and Precup* [[AAAI](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14858)]
