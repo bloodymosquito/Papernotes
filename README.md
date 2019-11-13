@@ -1,5 +1,9 @@
 # Papernotes
 
+### Fall 2019
+
+* [Deep RL Course 2019 - Berkeley](notes/Deep_RL_Berkeley/README.md)
+
 ### Summer 2019
 * [Competing the Obstacle Tower Challenge](notes/ObstacleTowerChallenge/ObstacleTowerChallenge.md) &mdash; *unixpickle* [[blog 2019](https://blog.aqnichol.com/2019/07/24/competing-in-the-obstacle-tower-challenge/)]
 * [Learning Latent Plans From Play](notes/LatentPlansFromPlay/LatentPlansFromPlay.md) &mdash; *Lynch et al.* [[arXiv 2019](https://arxiv.org/pdf/1903.01973.pdf) [blog](https://learning-from-play.github.io/)]
