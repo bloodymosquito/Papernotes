@@ -1,6 +1,7 @@
 # Deep Reinforcement Learning
 
 [Course page](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
 [Videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 
 ## Topics:
