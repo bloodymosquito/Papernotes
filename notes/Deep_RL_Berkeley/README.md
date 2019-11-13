@@ -15,6 +15,6 @@
 
 ## Lectures: 
 
-1. [Introduction and Course Overview](1.md)
-2. [Supervised Learning of Behaviors](2.md)
-3. [TensorFlow and Neural Nets Review Session](3.md)
+1. [Introduction and Course Overview](1.tex.md)
+2. [Supervised Learning of Behaviors](2.tex.md)
+3. [TensorFlow and Neural Nets Review Session](3.tex.md)
